@@ -1,0 +1,7 @@
+Arto's Virtual Machine
+Copyright (c) 2011, 2012 Arto Jonsson <artoj@iki.fi>
+
+ABOUT
+
+    Arto's Virtual Machine is a simple virtual machine inspired by the MIPS
+    architecture. In its current state it's work in progress.
